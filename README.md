@@ -1,4 +1,5 @@
-<img width="1368" height="930" alt="Screenshot 2025-07-25 230503" src="https://github.com/user-attachments/assets/61b08988-dfcf-420a-804f-7d76b4d15fe0" /># Brewing-Insights-Exploring-Coffee-Quality
+
+# Brewing-Insights-Exploring-Coffee-Quality
 
 ## ☕ Welcome to Coffee Quality Analysis – Power BI Dashboard
 
